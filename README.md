@@ -1,4 +1,4 @@
-# Findings-of-ACL-2022-Concern-Detection
+# From Stance to Concern: Adaptation of Propositional Analysis to New Tasks and Domains
 
 ## PDF
 Link to Come Soon
