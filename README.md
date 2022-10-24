@@ -1,7 +1,7 @@
 # From Stance to Concern: Adaptation of Propositional Analysis to New Tasks and Domains
 
 ## PDF
-Link to Come Soon
+[From Stance to Concern: Adaptation of Propositional Analysis to New Tasks and Domains](https://aclanthology.org/2022.findings-acl.264.pdf)
 
 ## Authors
 - Brodie Mather
